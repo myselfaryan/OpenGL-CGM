@@ -1,4 +1,6 @@
 # Solar System Simulation
+![image](https://github.com/user-attachments/assets/c6b72a57-d07b-44ca-a215-1e470177616c)
+
 
 An interactive 3D simulation of the Solar System built with OpenGL, showcasing the planets orbiting around the sun with realistic textures and lighting effects.
 
